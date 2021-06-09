@@ -1,0 +1,1 @@
+/var/www/html/magento2/vendor/magento/module-url-rewrite/view/adminhtml/web/js/url-rewrite-validation.js
